@@ -1,5 +1,6 @@
 # JMeter-PostTestDay27
 Post Test Day 27 Farhan Ramadhany - MovieDB
+GET NOW PLAYING
 ![GET Now Playing](https://user-images.githubusercontent.com/86412238/225193896-bfaa7f37-5aa8-4c77-a12d-d5f9f3800378.JPG)
 ![GET Popular Movie](https://user-images.githubusercontent.com/86412238/225193914-39cb2341-266d-4e2d-aa01-154ca8f38dc4.JPG)
 ![Graph Result](https://user-images.githubusercontent.com/86412238/225193925-be00077b-8dba-42d1-8bf6-6e313b3c5854.JPG)
